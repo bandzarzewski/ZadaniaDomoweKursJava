@@ -7,6 +7,7 @@ public class Zad4_NowaDziałka {
             int n = Integer.parseInt(input[i]);
             double pole = Math.pow(n, 2);
             System.out.println(pole);
+            System.out.println();
         }
 
     }
